@@ -1,0 +1,234 @@
+canonical_identifier: bkk:krp/KR3ef057/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef057/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒兼證析義
+  identifiers:
+    krp: KR3ef057
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef057.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef057_000-jc.yaml, hash: 'sha256:2c4cb89a0db4a258abbb24a811cc4b5d701bdce81bf360ca1d0eb24454fd47b7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef057_000-jc.markers.yaml, hash: 'sha256:d714cb83de26cfd5094aaeb5879489f211ab72a1e2666e0515e3660cc5e71bd3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1470
+  label: 中風兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d3.h1s1
+    span:
+    - body
+    - 1470
+    - 3250
+  label: 虛勞兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d4.h1s1
+    span:
+    - body
+    - 3250
+    - 3913
+  label: 中滿腫脹兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d5.h1s1
+    span:
+    - body
+    - 3913
+    - 4532
+  label: 噎膈反胃兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d6.h1s1
+    span:
+    - body
+    - 4532
+    - 5303
+  label: 內傷兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d7.h1s1
+    span:
+    - body
+    - 5303
+    - 6682
+  label: 宿食兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d8.h1s1
+    span:
+    - body
+    - 6682
+    - 8123
+  label: 素患咳嗽家兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d9.h1s1
+    span:
+    - body
+    - 8123
+    - 8898
+  label: 宿病咽乾閉塞兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d10.h1s1
+    span:
+    - body
+    - 8898
+    - 9700
+  label: 頭風兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d11.h1s1
+    span:
+    - body
+    - 9700
+    - 10761
+  label: 心腹諸痛兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d12.h1s1
+    span:
+    - body
+    - 10761
+    - 12469
+  label: 亡血家兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d13.h1s1
+    span:
+    - body
+    - 12469
+    - 13028
+  label: 多汗家兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d14.h1s1
+    span:
+    - body
+    - 13028
+    - 13747
+  label: 積聚動氣兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d15.h1s1
+    span:
+    - body
+    - 13747
+    - 14197
+  label: 疝證兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d16.h1s1
+    span:
+    - body
+    - 14197
+    - 14913
+  label: 淋濁兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d17.h1s1
+    span:
+    - body
+    - 14913
+    - 15825
+  label: 瀉痢兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d18.h1s1
+    span:
+    - body
+    - 15825
+    - 16932
+  label: 胎產兼傷寒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d19.h1s1
+    span:
+    - body
+    - 16932
+    - 20958
+  label: 經脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d20.h1s1
+    span:
+    - body
+    - 20958
+    - 22642
+  label: 奇經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d21.h1s1
+    span:
+    - body
+    - 22642
+    - 24828
+  label: 運氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef057_jc_000-d22.h1s1
+    span:
+    - body
+    - 24828
+    - 26333
+  label: 方宜
+  type: section
+  level: 1
+hash: sha256:6b927c74347c0b96d202b7caf0ac4fd0e6d07f4e3876ef817dd0109fcb59b089
