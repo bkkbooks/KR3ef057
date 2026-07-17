@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef057_000-jc.yaml, hash: 'sha256:2c4cb89a0db4a258abbb24a811cc4b5d701bdce81bf360ca1d0eb24454fd47b7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef057_000-jc.markers.yaml, hash: 'sha256:d714cb83de26cfd5094aaeb5879489f211ab72a1e2666e0515e3660cc5e71bd3'}
+  - {seq: 0, role: markers, filename: assets/KR3ef057_000-jc.markers.yaml, hash: 'sha256:7959ee085d9384897bfd9d8f44f5b3158cbd67712c2b8cd27cc7ec6e1bf97633'}
 table_of_contents:
 - ref:
     seq: 0
@@ -231,4 +231,4 @@ table_of_contents:
   label: 方宜
   type: section
   level: 1
-hash: sha256:6b927c74347c0b96d202b7caf0ac4fd0e6d07f4e3876ef817dd0109fcb59b089
+hash: sha256:429c4ca2c1bfed82f37f6628f1b2cdf27c82c6f6dc2f577a7b31ee37e39a4091
